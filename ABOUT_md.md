@@ -22,4 +22,4 @@
 
   `Теперь вы в тренде! Поздравляю!`
 
-[Pi](PI.md)(https://github.com/Sonechka007/sonechka-/blob/main/PI.md)
+[Pi](PI.md)
